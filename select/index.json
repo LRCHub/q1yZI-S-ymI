@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "言の針",
+  "base_artist": "ナナツカゼ",
+  "createdAt": "2026-03-11T11:21:04.799266Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言の針",
+      "artist": "ナナツカゼ",
+      "has_synced": false,
+      "path": "select/pl_01_言の針_ナナツカゼ.txt"
+    }
+  ]
+}
